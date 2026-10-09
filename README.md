@@ -20,13 +20,13 @@ Productivity_Score outliers (values outside 0–100, max was 121297) replaced wi
 Removed 5 rows with invalid Performance_Rating (not 1–5) or Attendance_Percent (not 0–100)
 Dashboard Pages
 1. Employee Overview
-![Employee Overview](screenshots_project/page1_overview.png)
+![Employee Overview](screenshots/page1_overview.png.png)
 2. Salary Analysis
-![Salary Analysis](screenshots_project/page2_salary.png)
+![Salary Analysis](screenshots/page2_salary.png.png)
 3. Attendance & Rating
-![Attendance and Rating](screenshots_project/page3_rating.png)
+![Attendance and Rating](screenshots/page3_rating.png.jpeg)
 4. Work Productivity
-![Work Productivity](screenshots_project/page4_productivity.png)
+![Work Productivity](screenshots/page4_productivity.png.jpeg)
 Key Insights
 966 employees, average salary 87.19K; departments are evenly spread (19%–21% each).
 Support has the highest average salary (91K); Data (84K) and Development (85K) are the lowest.
