@@ -55,5 +55,5 @@ How to Open
 Download `IT_Employees_Performance_Analysis.pbix`
 Open it in Power BI Desktop (free)
 Author
-<Your Name> – BE Computer Science and Engineering graduate, Data Analytics (fresher)
-LinkedIn: <your LinkedIn link>
+**Gayathri J** – BE Computer Science and Engineering graduate, Data Analytics (fresher)
+LinkedIn: www.linkedin.com/in/gayathri-jaisankar
